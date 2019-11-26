@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202553638236",
+    "firebase_url": "https://enta-d36d6.firebaseio.com",
+    "project_id": "enta-d36d6",
+    "storage_bucket": "enta-d36d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202553638236:android:739910d2d9e55bfb71d599",
+        "android_client_info": {
+          "package_name": "com.example.enta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202553638236-k5r38qhn61piioi68666umcu6s9gbsj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enta",
+            "certificate_hash": "49ee60abc520eaf699e5fe7b287c3914ccbe26c2"
+          }
+        },
+        {
+          "client_id": "202553638236-9n84ju6b8vb665m382dvs6j4p7ch24e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpBfPBzIj_leyN6j0ZH9S_FS5SwOszIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202553638236-9n84ju6b8vb665m382dvs6j4p7ch24e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
